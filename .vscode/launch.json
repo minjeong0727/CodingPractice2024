@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/gominjeong/Desktop/LevelUp/minco/CodingPractice2024/starter/practice",
+      "program": "/Users/gominjeong/Desktop/LevelUp/minco/CodingPractice2024/starter/practice/build/Debug/outDebug"
+    }
+  ]
+}
